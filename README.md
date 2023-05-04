@@ -127,3 +127,6 @@ BKP_Evdokimov_presentazia_final.pptx - презентация ВКР для за
 
 Выпускная квалификационная работа по программе повышения квалификации «Data Science» в обущчающем центре МГТУ им. Н. Э. Баумана
 2022 г. 
+<div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Avonna&style=flat-square&color=blue" alt = ""/>
+</div>
